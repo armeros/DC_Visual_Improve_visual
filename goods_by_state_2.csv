@@ -1,0 +1,295 @@
+,state,good,prop selling
+0,Alabama,Cheese,0.225352
+1,Alabama,Eggs,0.591549
+2,Alabama,Fruits,0.760563
+3,Alabama,Maple,0.014085
+4,Alabama,Poultry,0.197183
+5,Alabama,Wine,0.0
+6,Arizona,Cheese,0.484848
+7,Arizona,Eggs,0.757576
+8,Arizona,Fruits,0.909091
+9,Arizona,Maple,0.181818
+10,Arizona,Poultry,0.409091
+11,Arizona,Wine,0.090909
+12,Arkansas,Cheese,0.20339
+13,Arkansas,Eggs,0.864407
+14,Arkansas,Fruits,0.864407
+15,Arkansas,Maple,0.101695
+16,Arkansas,Poultry,0.355932
+17,Arkansas,Wine,0.033898
+18,California,Cheese,0.538462
+19,California,Eggs,0.726244
+20,California,Fruits,0.823529
+21,California,Maple,0.047511
+22,California,Poultry,0.404977
+23,California,Wine,0.153846
+24,Colorado,Cheese,0.530612
+25,Colorado,Eggs,0.765306
+26,Colorado,Fruits,0.806122
+27,Colorado,Maple,0.173469
+28,Colorado,Poultry,0.428571
+29,Colorado,Wine,0.306122
+30,Connecticut,Cheese,0.796296
+31,Connecticut,Eggs,0.833333
+32,Connecticut,Fruits,0.87037
+33,Connecticut,Maple,0.814815
+34,Connecticut,Poultry,0.574074
+35,Connecticut,Wine,0.111111
+36,Delaware,Cheese,0.464286
+37,Delaware,Eggs,0.75
+38,Delaware,Fruits,0.785714
+39,Delaware,Maple,0.142857
+40,Delaware,Poultry,0.571429
+41,Delaware,Wine,0.071429
+42,District of Columbia,Cheese,0.590909
+43,District of Columbia,Eggs,0.863636
+44,District of Columbia,Fruits,0.909091
+45,District of Columbia,Maple,0.090909
+46,District of Columbia,Poultry,0.681818
+47,District of Columbia,Wine,0.068182
+48,Florida,Cheese,0.653846
+49,Florida,Eggs,0.75641
+50,Florida,Fruits,0.807692
+51,Florida,Maple,0.358974
+52,Florida,Poultry,0.429487
+53,Florida,Wine,0.051282
+54,Georgia,Cheese,0.58871
+55,Georgia,Eggs,0.790323
+56,Georgia,Fruits,0.822581
+57,Georgia,Maple,0.153226
+58,Georgia,Poultry,0.419355
+59,Georgia,Wine,0.032258
+60,Idaho,Cheese,0.513514
+61,Idaho,Eggs,0.675676
+62,Idaho,Fruits,0.621622
+63,Idaho,Maple,0.135135
+64,Idaho,Poultry,0.243243
+65,Idaho,Wine,0.243243
+66,Illinois,Cheese,0.528796
+67,Illinois,Eggs,0.633508
+68,Illinois,Fruits,0.82199
+69,Illinois,Maple,0.282723
+70,Illinois,Poultry,0.492147
+71,Illinois,Wine,0.068063
+72,Indiana,Cheese,0.527778
+73,Indiana,Eggs,0.756944
+74,Indiana,Fruits,0.854167
+75,Indiana,Maple,0.541667
+76,Indiana,Poultry,0.4375
+77,Indiana,Wine,0.083333
+78,Iowa,Cheese,0.227723
+79,Iowa,Eggs,0.821782
+80,Iowa,Fruits,0.782178
+81,Iowa,Maple,0.188119
+82,Iowa,Poultry,0.306931
+83,Iowa,Wine,0.207921
+84,Kansas,Cheese,0.155844
+85,Kansas,Eggs,0.792208
+86,Kansas,Fruits,0.766234
+87,Kansas,Maple,0.077922
+88,Kansas,Poultry,0.298701
+89,Kansas,Wine,0.077922
+90,Kentucky,Cheese,0.315789
+91,Kentucky,Eggs,0.8
+92,Kentucky,Fruits,0.863158
+93,Kentucky,Maple,0.294737
+94,Kentucky,Poultry,0.421053
+95,Kentucky,Wine,0.157895
+96,Louisiana,Cheese,0.421053
+97,Louisiana,Eggs,0.736842
+98,Louisiana,Fruits,0.789474
+99,Louisiana,Maple,0.035088
+100,Louisiana,Poultry,0.315789
+101,Louisiana,Wine,0.175439
+102,Maine,Cheese,0.787879
+103,Maine,Eggs,0.833333
+104,Maine,Fruits,0.787879
+105,Maine,Maple,0.787879
+106,Maine,Poultry,0.575758
+107,Maine,Wine,0.181818
+108,Maryland,Cheese,0.469565
+109,Maryland,Eggs,0.878261
+110,Maryland,Fruits,0.773913
+111,Maryland,Maple,0.165217
+112,Maryland,Poultry,0.591304
+113,Maryland,Wine,0.330435
+114,Massachusetts,Cheese,0.583333
+115,Massachusetts,Eggs,0.829167
+116,Massachusetts,Fruits,0.820833
+117,Massachusetts,Maple,0.65
+118,Massachusetts,Poultry,0.579167
+119,Massachusetts,Wine,0.2875
+120,Michigan,Cheese,0.457983
+121,Michigan,Eggs,0.764706
+122,Michigan,Fruits,0.848739
+123,Michigan,Maple,0.726891
+124,Michigan,Poultry,0.420168
+125,Michigan,Wine,0.147059
+126,Minnesota,Cheese,0.283465
+127,Minnesota,Eggs,0.700787
+128,Minnesota,Fruits,0.708661
+129,Minnesota,Maple,0.559055
+130,Minnesota,Poultry,0.448819
+131,Minnesota,Wine,0.007874
+132,Mississippi,Cheese,0.533333
+133,Mississippi,Eggs,0.666667
+134,Mississippi,Fruits,0.777778
+135,Mississippi,Maple,0.022222
+136,Mississippi,Poultry,0.111111
+137,Mississippi,Wine,0.0
+138,Missouri,Cheese,0.210843
+139,Missouri,Eggs,0.795181
+140,Missouri,Fruits,0.777108
+141,Missouri,Maple,0.090361
+142,Missouri,Poultry,0.313253
+143,Missouri,Wine,0.048193
+144,Montana,Cheese,0.269231
+145,Montana,Eggs,0.826923
+146,Montana,Fruits,0.730769
+147,Montana,Maple,0.076923
+148,Montana,Poultry,0.269231
+149,Montana,Wine,0.115385
+150,Nebraska,Cheese,0.218182
+151,Nebraska,Eggs,0.745455
+152,Nebraska,Fruits,0.8
+153,Nebraska,Maple,0.145455
+154,Nebraska,Poultry,0.345455
+155,Nebraska,Wine,0.072727
+156,Nevada,Cheese,0.307692
+157,Nevada,Eggs,0.692308
+158,Nevada,Fruits,0.846154
+159,Nevada,Maple,0.153846
+160,Nevada,Poultry,0.0
+161,Nevada,Wine,0.038462
+162,New Hampshire,Cheese,0.73913
+163,New Hampshire,Eggs,0.913043
+164,New Hampshire,Fruits,0.724638
+165,New Hampshire,Maple,0.884058
+166,New Hampshire,Poultry,0.710145
+167,New Hampshire,Wine,0.434783
+168,New Jersey,Cheese,0.644231
+169,New Jersey,Eggs,0.653846
+170,New Jersey,Fruits,0.682692
+171,New Jersey,Maple,0.201923
+172,New Jersey,Poultry,0.394231
+173,New Jersey,Wine,0.240385
+174,New Mexico,Cheese,0.214286
+175,New Mexico,Eggs,0.553571
+176,New Mexico,Fruits,0.696429
+177,New Mexico,Maple,0.0
+178,New Mexico,Poultry,0.125
+179,New Mexico,Wine,0.017857
+180,New York,Cheese,0.553333
+181,New York,Eggs,0.688889
+182,New York,Fruits,0.764444
+183,New York,Maple,0.564444
+184,New York,Poultry,0.491111
+185,New York,Wine,0.377778
+186,North Carolina,Cheese,0.521472
+187,North Carolina,Eggs,0.846626
+188,North Carolina,Fruits,0.865031
+189,North Carolina,Maple,0.092025
+190,North Carolina,Poultry,0.588957
+191,North Carolina,Wine,0.208589
+192,North Dakota,Cheese,0.0625
+193,North Dakota,Eggs,0.25
+194,North Dakota,Fruits,0.5625
+195,North Dakota,Maple,0.0625
+196,North Dakota,Poultry,0.125
+197,North Dakota,Wine,0.0625
+198,Ohio,Cheese,0.478261
+199,Ohio,Eggs,0.673913
+200,Ohio,Fruits,0.896739
+201,Ohio,Maple,0.679348
+202,Ohio,Poultry,0.505435
+203,Ohio,Wine,0.081522
+204,Oklahoma,Cheese,0.294118
+205,Oklahoma,Eggs,0.676471
+206,Oklahoma,Fruits,0.676471
+207,Oklahoma,Maple,0.058824
+208,Oklahoma,Poultry,0.294118
+209,Oklahoma,Wine,0.117647
+210,Oregon,Cheese,0.467213
+211,Oregon,Eggs,0.737705
+212,Oregon,Fruits,0.786885
+213,Oregon,Maple,0.040984
+214,Oregon,Poultry,0.5
+215,Oregon,Wine,0.418033
+216,Pennsylvania,Cheese,0.5625
+217,Pennsylvania,Eggs,0.652778
+218,Pennsylvania,Fruits,0.868056
+219,Pennsylvania,Maple,0.4375
+220,Pennsylvania,Poultry,0.472222
+221,Pennsylvania,Wine,0.319444
+222,Rhode Island,Cheese,0.5
+223,Rhode Island,Eggs,0.676471
+224,Rhode Island,Fruits,0.970588
+225,Rhode Island,Maple,0.294118
+226,Rhode Island,Poultry,0.411765
+227,Rhode Island,Wine,0.0
+228,South Carolina,Cheese,0.671642
+229,South Carolina,Eggs,0.820896
+230,South Carolina,Fruits,0.820896
+231,South Carolina,Maple,0.19403
+232,South Carolina,Poultry,0.447761
+233,South Carolina,Wine,0.104478
+234,South Dakota,Cheese,0.347826
+235,South Dakota,Eggs,0.826087
+236,South Dakota,Fruits,0.73913
+237,South Dakota,Maple,0.086957
+238,South Dakota,Poultry,0.478261
+239,South Dakota,Wine,0.043478
+240,Tennessee,Cheese,0.487805
+241,Tennessee,Eggs,0.865854
+242,Tennessee,Fruits,0.865854
+243,Tennessee,Maple,0.158537
+244,Tennessee,Poultry,0.573171
+245,Tennessee,Wine,0.036585
+246,Texas,Cheese,0.488189
+247,Texas,Eggs,0.905512
+248,Texas,Fruits,0.850394
+249,Texas,Maple,0.204724
+250,Texas,Poultry,0.582677
+251,Texas,Wine,0.267717
+252,Utah,Cheese,0.548387
+253,Utah,Eggs,0.806452
+254,Utah,Fruits,0.870968
+255,Utah,Maple,0.064516
+256,Utah,Poultry,0.258065
+257,Utah,Wine,0.064516
+258,Vermont,Cheese,0.661765
+259,Vermont,Eggs,0.852941
+260,Vermont,Fruits,0.779412
+261,Vermont,Maple,0.897059
+262,Vermont,Poultry,0.720588
+263,Vermont,Wine,0.352941
+264,Virginia,Cheese,0.558011
+265,Virginia,Eggs,0.928177
+266,Virginia,Fruits,0.889503
+267,Virginia,Maple,0.187845
+268,Virginia,Poultry,0.696133
+269,Virginia,Wine,0.254144
+270,Washington,Cheese,0.709924
+271,Washington,Eggs,0.770992
+272,Washington,Fruits,0.89313
+273,Washington,Maple,0.030534
+274,Washington,Poultry,0.48855
+275,Washington,Wine,0.450382
+276,West Virginia,Cheese,0.285714
+277,West Virginia,Eggs,0.875
+278,West Virginia,Fruits,0.785714
+279,West Virginia,Maple,0.482143
+280,West Virginia,Poultry,0.535714
+281,West Virginia,Wine,0.035714
+282,Wisconsin,Cheese,0.494898
+283,Wisconsin,Eggs,0.647959
+284,Wisconsin,Fruits,0.785714
+285,Wisconsin,Maple,0.734694
+286,Wisconsin,Poultry,0.515306
+287,Wisconsin,Wine,0.040816
+288,Wyoming,Cheese,0.516129
+289,Wyoming,Eggs,0.806452
+290,Wyoming,Fruits,0.612903
+291,Wyoming,Maple,0.129032
+292,Wyoming,Poultry,0.354839
+293,Wyoming,Wine,0.064516
